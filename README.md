@@ -1,6 +1,7 @@
 # ML Alpha Examples
 
 If you have suggestions, improvements, or simply want to join a community centered around ML Alpha, welcome to our Discord server
+
 [![](https://dcbadge.vercel.app/api/server/8wd7Z2CE)](https://discord.gg/8wd7Z2CE)
 
 
