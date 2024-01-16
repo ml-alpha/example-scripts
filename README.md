@@ -8,5 +8,5 @@ Submit predictions as a data-scientist to ML Alpha platform [here](./datascienti
 
 If you have suggestions, improvements, or simply want to join a community centered around ML Alpha, welcome to our [ML Alpha Discord server](https://discord.gg/8wd7Z2CE)!
 <a target="_blank" href="https://discord.gg/8wd7Z2CE">
-  <img src="https://www.svgrepo.com/download/353655/discord-icon.svg" alt="Join our Discord"/>
+  <img src="https://www.svgrepo.com/download/353655/discord-icon.svg" height="16" width="20" alt="Join our Discord"/>
 </a>
