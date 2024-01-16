@@ -5,3 +5,5 @@ Submit predictions as a data-scientist to ML Alpha platform [here](./datascienti
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+
+If you have suggestions, improvements, or simply want to join a community centered around ML Alpha, welcome to our [ML Alpha Discord server](https://discord.gg/8wd7Z2CE)!
