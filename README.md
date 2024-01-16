@@ -5,7 +5,7 @@ If you have suggestions, improvements, or simply want to join a community center
 [![](https://dcbadge.vercel.app/api/server/8wd7Z2CE)](https://discord.gg/8wd7Z2CE)
 
 
-## Use ML Alpha as a Data-scientist
+## Use ML Alpha Datasets
 Example of submitting predictions as to ML Alpha platform [here](./datascientist-example.ipynb)
 
 <a target="_blank" href="https://colab.research.google.com/github/ml-alpha/example-scripts/blob/main/datascientist-example.ipynb">
